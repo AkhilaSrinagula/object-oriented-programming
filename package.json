@@ -1,0 +1,23 @@
+{
+  "name": "object-oriented-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilaSrinagula/object-oriented-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilaSrinagula/object-oriented-programming/issues"
+  },
+  "homepage": "https://github.com/AkhilaSrinagula/object-oriented-programming#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
